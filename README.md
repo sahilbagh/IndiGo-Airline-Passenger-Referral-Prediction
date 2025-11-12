@@ -124,6 +124,10 @@ Hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
 Time – To track the runtime of model training and evaluation.
 
 Warnings – Suppresses warning messages to keep the output clean during development.
+
+## Insights
+<img src="https://github.com/sahilbagh/IndiGo-Airline-Passenger-Referral-Prediction/blob/f369a450a5700bca2f38f2aa9f74a2a722d8b12f/insights.jpg" alt="Alt Text" width="800" height="500">
+
 ## Conclusion
 In this project, we systematically cleaned and prepared the data, ensuring quality for analysis. Key features were selected to focus on the most relevant information, improving model performance. Multiple machine learning models were tested, including Logistic Regression, Decision Tree, and Random Forest. Cross-validation and hyperparameter tuning helped optimize results and prevent overfitting. The Random Forest model outperformed others, achieving an impressive 94.27% accuracy and 93.80% F1-score. The Decision Tree model, however, showed signs of overfitting. Overall, the best models demonstrated balanced and consistent metrics. These insights can help airlines enhance customer experience and increase referral rates.
 
