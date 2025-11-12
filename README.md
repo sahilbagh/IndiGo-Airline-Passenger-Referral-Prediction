@@ -1,4 +1,4 @@
-![img alt](https://github.com/sahilbagh/IndiGo-Airline-Passenger-Referral-Prediction/blob/d2590d665bb17918a820a5b9aa7402efa24656c1/indigo-vector-logo-2022.png)
+<img src="https://github.com/sahilbagh/IndiGo-Airline-Passenger-Referral-Prediction/blob/d2590d665bb17918a820a5b9aa7402efa24656c1/indigo-vector-logo-2022.png" alt="Alt Text" width="300" height="200">
 # IndiGo-Airline-Passenger-Referral-Prediction
 
 Machine Learning Project
